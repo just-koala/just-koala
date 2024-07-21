@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![404](./src/assets/images/404.gif)
+<img src="./src/assets/images/404.gif" alt="404 Not Found" width="200"/>
+
 
 <!--
 **just-koala/just-koala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
